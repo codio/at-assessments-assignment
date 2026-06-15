@@ -5,6 +5,11 @@
 		{
 			"path": "#tabs",
 			"action": "close"
+		},
+		{
+			"path": "run",
+			"panel": 0,
+			"action": "open"
 		}
 	],
 	"path": [],
@@ -13,5 +18,5 @@
 	"teacherOnly": false,
 	"closeTerminalSession": true,
 	"learningObjectives": "",
-	"layout": "1-panel"
+	"layout": "2-panels-tree"
 }
