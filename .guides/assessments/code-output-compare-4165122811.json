@@ -5,7 +5,7 @@
 		"name": "SCT",
 		"showName": true,
 		"instructions": "Echo Correct",
-		"command": "bash run",
+		"command": "bash runSCT",
 		"preExecuteCommand": "",
 		"options": {
 			"timeout": 30,
@@ -21,8 +21,16 @@
 					"value": "Standard Code Test"
 				}
 			],
-			"files": [],
-			"opened": []
+			"files": [
+				"run"
+			],
+			"opened": [
+				{
+					"type": "file",
+					"panelNumber": 0,
+					"content": "run"
+				}
+			]
 		},
 		"bloomsObjectiveLevel": "",
 		"learningObjectives": "",

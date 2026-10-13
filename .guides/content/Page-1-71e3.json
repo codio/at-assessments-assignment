@@ -7,7 +7,12 @@
 			"action": "close"
 		},
 		{
-			"path": "run",
+			"path": "runSCT",
+			"panel": 0,
+			"action": "open"
+		},
+		{
+			"path": "runACT",
 			"panel": 0,
 			"action": "open"
 		}
